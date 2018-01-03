@@ -1,0 +1,18 @@
+images {
+  image: "/res/c2.png"
+}
+images {
+  image: "/res/combo.png"
+}
+images {
+  image: "/res/FLight_01_Blue.png"
+}
+images {
+  image: "/res/FLight_01_yellow.png"
+}
+images {
+  image: "/res/c3.png"
+}
+margin: 0
+extrude_borders: 0
+inner_padding: 0
